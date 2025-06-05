@@ -34,7 +34,7 @@ nav {
 }
 
 .logo {
-    color: var(--primary);
+    color: white;
     font-size: 24px;
     font-weight: bold;
     transition: text-shadow 0.3s ease;
