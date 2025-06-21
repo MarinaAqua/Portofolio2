@@ -1,7 +1,7 @@
-# Portofolio Marina Aqua
+# Portofolio2 Marina Aqua
 
-![Screenshot Portofolio](https://raw.githubusercontent.com/MarinaAqua/portofolio2/main/logo.jpg)
-*Contoh tampilan portofolio—ganti link gambar dengan screenshot terbaru Anda.*
+![Screenshot Portofolio](https://raw.githubusercontent.com/MarinaAqua/Portofolio2/main/img1.jpg)
+*Contoh tampilan portofolio2.*
 
 ---
 
@@ -46,9 +46,9 @@
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshot2
 
-![Screenshot Portofolio](https://raw.githubusercontent.com/MarinaAqua/portofolio2/main/logo.jpg)  
+![Screenshot Portofolio](https://raw.githubusercontent.com/MarinaAqua/Portofolio2/main/img2.jpg)  
 *Ganti link gambar di atas dengan screenshot terbaru portofolio Anda.*
 
 ---
@@ -56,7 +56,7 @@
 ## 🧑‍💻 Cara Penggunaan
 
 1. **Kunjungi situs:**  
-   Buka [https://portofolio2.pages.dev/](https://portofolio2.pages.dev/) di browser.
+   Buka [https://your-name.pages.dev/](https://your-name.pages.dev/) di browser.
 2. **Jelajahi portofolio:**  
    - Baca profil singkat.
    - Lihat daftar proyek dan klik untuk detail lebih lanjut.
@@ -73,7 +73,7 @@ portofolio2/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
+├── BG/
 │ ├── images/
 │ └── icons/
 ├── README.md
