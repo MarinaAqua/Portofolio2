@@ -49,7 +49,7 @@
 ## 📸 Screenshot2
 
 ![Screenshot Portofolio](https://raw.githubusercontent.com/MarinaAqua/Portofolio2/main/img2.jpg)  
-*Ganti link gambar di atas dengan screenshot terbaru portofolio Anda.*
+*contoh tampilan portofolio2.*
 
 ---
 
